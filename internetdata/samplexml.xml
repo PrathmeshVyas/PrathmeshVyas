@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+    <firstname>prathmesh</firstname>
+    <lastname>vyas</lastname>
+    <home>INDIA</home>
+    <skill name="Python"/>
+    <skill name="Css"/>
+    <skill name="HTML"/>
+
+
+
+</person>
